@@ -5,7 +5,7 @@ colorama==0.4.1
 decorator==4.3.2
 defusedxml==0.5.0
 dj-database-url==0.5.0
-Django==2.1.1
+Django==2.2.10
 django-allauth==0.38.0
 idna==2.8
 ipython==7.2.0
